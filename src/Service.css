@@ -1,0 +1,11 @@
+.service{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 40px;
+}
+
+.service-item{
+    background-color: rgb(246, 255, 146);
+    padding: 10px;
+    text-align: center;
+}
