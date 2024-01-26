@@ -1,0 +1,20 @@
+.counter1{
+    display: flex;
+    background-color: rgb(0, 238, 255);
+    width: 200px;
+    padding: 1rem;
+    list-style-type: none;
+    align-items: center;
+    justify-content: center;
+}
+.containerr{
+    display: flex;
+    background-color: rgb(0, 238, 255);
+    padding: 1rem;
+    list-style-type: none;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.counter-box{
+    align-items: center;
+}
